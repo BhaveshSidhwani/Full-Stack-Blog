@@ -1,0 +1,7 @@
+build
+mongo-db-data
+node_modules
+credentials.json
+.env
+*.yaml
+.DS_Store
